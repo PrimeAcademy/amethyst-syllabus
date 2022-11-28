@@ -4,9 +4,9 @@
 
 ## Instruction Staff
 
-- [@TODO: Kris Szafranski], Director of Instruction <kris@primeacademy.io>
-- [@TODO: Edan Schwartz], Instructor <edan@primeacademy.io>
-- [@TODO: Bethany Pfannenstiel], Cohort Advisor <bethany@primeacademy.io>
+- [Kris Szafranski], Director of Instruction <kris@primeacademy.io>
+- [Edan Schwartz], Instructor <edan@primeacademy.io>
+- [Bethany Pfannenstiel], Cohort Advisor <bethany@primeacademy.io>
 
 ## Other Prime Staff
 
