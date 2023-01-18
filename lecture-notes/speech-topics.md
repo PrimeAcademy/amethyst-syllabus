@@ -1,0 +1,33 @@
+# Collection of Speech Topics for Tier 2
+
+- How did you find your way to Prime?
+- Tell us about someone you look up to or admire
+- Tell us a funny story
+- Tell us about a time when you were truly happy
+- If you could have ONE super-power, what would it be and why?
+- Fear (open-ended, talk about fear)
+- Change (open-ended, talk about change)
+- If you could give yourself some advice before starting Prime, what would it be?10)
+- Tell us about a time you overcame a challenge/accomplished something
+- Growth (open-ended, talk about change)
+- Talk about mistakes / Talk about a time you made a mistake
+- What does "Help" mean to you?
+- Humility (open-ended, talk about change)
+- What does the internet not do that you wish it would?
+- How has technology impacted your life?
+- If you could solve any ONE problem in the world, what would it be?
+- Pitch your solo project
+- Solo project MVP demo
+- Solo project presentation dress rehearsal
+- What makes you weird / Tell us something weird about yourself (that you like)
+- Tell us about your favorite teacher (before Prime)
+- Which of your Strengths resonates the most with you? Why?
+- Tell us about an object that has meaning to you
+- What has job interviewing been like for you in the past?
+- Where do you see yourself in 5 years from now?
+- What would you do if you just won the lottery
+- What do you most remember about your favorite high school class?
+- Talk about your worst teacher, coach, or manager from your past
+- Tell us about one of your favorite projects
+- What makes a great team?
+- What is something interesting to you?
