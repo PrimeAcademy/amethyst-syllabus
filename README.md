@@ -5,6 +5,7 @@
 
 - Kris Szafranski, Director of Instruction <kris@primeacademy.io>
 - Edan Schwartz, Instructor <edan@primeacademy.io>
+- Key Clark, Instructor <jakeh@primeacademy.io>
 - Bethany Pfannenstiel, Cohort Advisor <bethany@primeacademy.io>
 
 ## Other Prime Staff
